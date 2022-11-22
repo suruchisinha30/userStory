@@ -1,0 +1,182 @@
+#container{
+    top: 310px;
+    right: 200px;
+    width: 700px;
+    height: 800px;
+    text-align: left;
+    position:fixed;
+    padding-right: 25px;
+    font-size: large;
+}
+.down{
+    position: relative;
+    bottom: 90px;
+    left: 550px;
+    width: 110px;
+    height: 32px;
+    border: 1px solid #111111;
+    background-color:#fcfafa ;
+    border-radius: 1px;
+    font-weight: 700;
+    font-size: 14px ;
+    color: rgb(15, 15, 15);
+    font: normal normal medium 20px/20px Roboto;
+}
+.box{
+    position: relative;
+    bottom: -30px;
+    width: 300px;
+}
+
+.story{
+    position: relative;
+    right: 120px;
+    /* bottom: 40px; */
+    font-size: 32px;
+    font-weight: 650;
+    
+
+}
+.last{
+    position: relative;
+    right: 175px;
+    font-weight: 900;
+
+
+}
+.change{
+    position: relative;
+    bottom: 20px ;
+    right: 1px;
+    font: normal normal medium 14px/19px Roboto;
+    color: #0079A7;
+    opacity: 1;
+    font-weight: 900;
+
+}
+
+.right{
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+.tab{
+
+   position: relative; 
+    width: 300px;
+    margin-top: 30px;
+
+
+}
+
+
+#a4{
+    position: relative;
+    font-size: large;
+    text-align: center;
+    
+}
+
+#a3{
+    right: 39px;
+    position: relative;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: left;
+    float:right;
+    margin-right: 22%;
+    bottom: 8px;
+
+
+}
+#a4{
+    right: 35px;
+    bottom: 8px;
+    position: relative;
+    font-size: 17px;
+    font-weight: 600;
+}
+#a2{
+    
+    position: relative;
+    left: 400px;
+}
+
+#main{
+    
+    bottom: -83px;
+    left: 32px;
+    width: 950px;
+    height: 500px;
+    position:absolute;
+    font-size: small;
+    opacity: 1;
+    padding: 40px;
+}  
+
+
+ #search1{
+    width: 300px;    position: relative;
+     margin-right: -493px;
+     top: 24px;
+    text-align: left; 
+    
+}  
+
+
+#search2{
+    
+    width: 300px;
+    position: relative;
+     margin-right: -260px;
+     top: 24px;
+    text-align: left; 
+}   
+
+
+
+    /* #a1{
+        float: left;
+    }
+    main{
+        bottom: 5px;
+        left: 300px;
+        width: 950px;
+        height: 500px;
+        position:absolute;
+        font-size: small;
+        opacity: 1;
+        padding: 40px;
+    }  
+    /* #a1{
+        float: left;
+    }
+    /* #a2{
+        position: relative;
+        left: 430px;
+    } */
+    /* #main{
+        left: 311px;
+        width: 500px;
+        height: 500px;
+        position: relative;
+        background: #FDFDFD 0% 0% no-repeat padding-box;
+        border: 0.5px solid #BDC7C9;
+        border-radius: 0px 2px 2px 2px;
+        opacity: 1;
+        padding: 20px;
+    }
+    #a3left{
+        top: 70px;
+        left: -330px;
+        position: relative;
+    }
+    #a4datalist{
+        left: 300px;
+        position: relative;
+    }
+    #a4right{
+        left: 300px;
+        position: relative;
+        top: -280px;
+    } */

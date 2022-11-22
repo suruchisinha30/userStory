@@ -1,0 +1,27 @@
+.cla{
+    position: relative;
+    top: 12px;
+    left: 490px;
+    width: 80px;
+    height: 30px;
+    border: 1px solid #f5efef;
+    background-color:#444444 ;
+    border-radius: 1px;
+    color: rgb(236, 241, 241);
+    font: normal normal medium 14px/19px Roboto;
+    
+    }
+    .clas{
+        position: relative;
+        top: 12px;
+        left: 515px;
+        width: 82px;
+        height: 30px;
+        border:  #FCAF17;
+        background: #FCAF17 0% 0% no-repeat padding-box;   
+         border-radius: 1px;
+        color: rgb(236, 241, 241);
+        border-radius: 2px;
+        font: normal normal medium 14px/19px Roboto;
+    
+    }

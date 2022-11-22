@@ -1,0 +1,16 @@
+{
+    "taxrates":[  
+    {    
+        "first":"Tax Rate Name",
+        "second":"State/Provinces"
+    },
+    {
+        "first":"Tax Rate Name",
+        "second":"State/Provinces"
+    },
+    {
+        "first":"Tax Rate Name",
+        "second":"State/Provinces"
+    }
+]
+}
